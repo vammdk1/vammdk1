@@ -13,10 +13,4 @@
 
   <h2>Herramientas varias utilizadas</h2>
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb,postgres,mysql,htmx,css,tailwind,unity,blender,vscode,eclipse" />
-
-  <!-- Aquí agregas la caja de estadísticas -->
-  <h2>Estadísticas de GitHub</h2>
-  <a href="https://github.com/vammdk1/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=vammdk1" alt="Anurag's GitHub stats" />
-  </a>
 </div>
