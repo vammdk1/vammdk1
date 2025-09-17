@@ -1,6 +1,6 @@
 <div>
   <p>
-  <h1>Conocimientos generales</h1>
+  <h1>Información general</h1>
   <h2>Lenguajes más utilizados</h2>
 
   <img src="https://skillicons.dev/icons?i=python,java,c,c#,," />
